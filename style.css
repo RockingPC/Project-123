@@ -1,0 +1,19 @@
+body{
+     background-color:aqua;
+     color:brown;
+     font-size:20px;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.heading{
+     box-shadow:5px 5px 5px rgb(252, 60, 92);
+     color: royalblue;
+     background-color:salmon;
+     font-size:20;
+
+}
+#Bulb{
+     height:150;
+     width:500;
+
+}
